@@ -1,0 +1,13 @@
+Chord:
+Aliases:
+Position:
+Tuning: Standard
+
+   012345
+e |------|
+B |------|
+G |------|
+D |------|
+A |------|
+E |------|
+
