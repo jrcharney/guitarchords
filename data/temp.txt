@@ -1,6 +1,7 @@
 Chord:
 Aliases:
 Position:
+Spelling:
 Tuning: Standard
 
    012345
