@@ -111,7 +111,7 @@ Note:
 | Bb dim7  | Bb diminished 7th             |  1   | E:X, 1:7, 2:14, 3:16, G:X, e:0   | 1st(Bb), b3rd(Db), b5th(Fb), bb7th(Abb)                       |
 | Bb dim   | Bb diminished triad           |  1   | E:X, 1:7, 2:14, 3:16, 4:21, e:0  | 1st(Bb), b3rd(Db), b5th(Fb)                                   |
 | B        | B major                       |  1   | E:X, 1:13-17, 2:26, 3:27, 4:28   | 1st(B), 3rd(D#), 5th(F#)                                      |
-| B        | B major                       |  1   | 1:42-47, 2:51, 3:55 , 4:56       | 1st(B), 3rd(D#), 5th(F#)                                      |
+| B        | B major                       |  1   | 1:42-47, 2:51, 3:55, 4:56        | 1st(B), 3rd(D#), 5th(F#)                                      |
 | B  m     | B minor                       |  1   | E:X, 1:13-17, 2:22, 3:26 , 4:27  | 1st(B), b3rd(D), 5th(F#)                                      |
 | B  m     | B minor                       |  2   | 1:42-47, 3:55, 4:56              | 1st(B), b3rd(D), 5th(F#)                                      |
 | B  maj7  | B major 7th                   |  1   | E:X, 1:13-17, 2:21, 3:26, 4:28   | 1st(B), 3rd(D#), 5th(F#), 7th(A#)                             |
@@ -140,4 +140,34 @@ Note:
 | B  aug   | B augmented                   |  1   | 1:27, 2:32, 3:37, 4:42, B:X, e:X | 1st(B), 3rd(D#), #5th(Fx)                                     |
 | B  dim7  | B diminished 7th              |  1   | E:X, 1:9-11, 2:13, 3:20, 4:22    | 1st(B), b3rd(D), b5th(F), bb7th(Ab)                           |
 | B  dim   | B diminished triad            |  1   | E:X, 1:13, 2:20, 3:27, 4:22, e:X | 1st(B), b3rd(D), b5th(F)                                      |
+| C        | C major                       |  1   | E:X, 1:10, 2:14, 3:19, G:0, e:0  | 1st(C), 3rd(E), 5th(C)                                        |
+| C        | C major                       |  2   | E:X, 1:19-23, 2:32, 3:33, 4:34   | 1st(C), 3rd(E), 5th(G)                                        |
+| C  m     | C minor                       |  1   | E:X, 1:19-23, 2:28, 3:32, 4:33   | 1st(C), b3rd(E), 5th(G)                                       |
+| C  m     | C minor                       |  2   | 1:48-53, 3:61, 4:62              | 1st(C), b3rd(Eb), 5th(G)                                      |
+| C  maj7  | C major 7th                   |  1   | E:X, 2:14, 3:19, G:0, B:0, e:0   | 1st(C), 3rd(E), 5th(G), 7th(B)                                |
+| C  maj7  | C major 7th                   |  2   | E:X, 1:19-23, 2:27, 3:32, 4:34   | 1st(C), 3rd(E), 5th(G), 7th(B)                                |
+| C  m7    | C minor 7th                   |  1   | E:1: 1:19-23, 2:28, 3:32         | 1st(C), b3rd(E), 5th(G), b7th(Bb)                             |
+| C  m7    | C minor 7th                   |  2   | 1:48-53, 3:61                    | 1st(C), b3rd(E), 5th(G), b7th(Bb)                             |
+| C  sus4  | C suspended 4th               |  1   | E:X, G:0, 1:10-11, 3:19, 4:20    | 1st(C), 4th(F), 5th(G)                                        |
+| C  sus4  | C suspended 4th               |  2   | E:X, 1:19-23, 2:32, 3:33, 4:40   | 1st(C), 4th(F), 5th(G)                                        |
+| C  7sus4 | C dominant 7th suspended 4th  |  1   | E:X, 1:19, 2:20, 3:21, B:X, 4:23 | 1st(C), 4th(F), 5th(G), b7th(Bb)                              |
+| C  7sus4 | C dominant 7th suspended 4th  |  2   | E:X, 1:19-23, 3:32, 4:40         | 1st(C), 4th(F), 4th(G), b7th(Bb)                              |
+| C  6     | C major 6th                   |  1   | E:X, 1:19, 3:32-35               | 1st(C), 3rd(E), 5th(G), 6th(A)                                |
+| C  6     | C major 6th                   |  2   | 1:43-44, 2:48, 3:52, 4:57, e:0   | 1st(C), 3rd(E), 5th(G), 6th(A)                                |
+| C  m6    | C minor 6th                   |  1   | E:X, 1:8-10, 2:15, 3:19, 4:23    | 1st(C), b3rd(Eb), 5th(G), 6th(A)                              |
+| C  m6    | C minor 6th                   |  2   | E:X, 1:19, G:X, 2:28, 3:32, 4:35 | 1st(C), b3rd(Eb), 5th(G), 6th(A)                              |
+| C  7     | C dominant 7th                |  1   | E:X, 1:10, 2:14, 3:19, 4:21, e:0 | 1st(C), 3rd(E), 5th(G), b7th(Bb)                              |
+| C  7     | C dominant 7th                |  2   | E:X, 1:19-23, 3:32, 4:34         | 1st(C), 3rd(E), 5th(G), b7th(Bb)                              |
+| C  9     | C dominant 9th                |  1   | E:X, 1:14, 2:19, 3:21-23         | 1st(C), 3rd(E), 5th(G), b7th(Bb), 9th(D)                      |
+| C  9     | C dominant 9th                |  2   | 1:43-45, 2:48, 3:50, 4:52, e:0   | 1st(C), 3rd(E), 5th(G), b7th(Bb), 9th(D)                      |
+| C  5     | C 5th POWER CHORD             |  1   | E:X, 1:19, 3:32, 4:33, B:X, e:X  | 1st(C), 5th(G)                                                |
+| C  6add9 | C major 6th add 9th           |  1   | E:X, 1:14-15, 2:19, 3:22, 4:23   | 1st(C), 3rd(E), 5th(G), 6th(A), 9th(D)                        |
+| C  11    | C dominant 11th               |  1   | E:X, 1:10-11, 2:14, 3:19, 4:21   | 1st(C), 3rd(E), 5th(G), b7th(Bb), 9th(D), 11th(F)             |
+| C  13    | C dominant 13th               |  1   | E:X, 1:14, 2:19, 3:21-22, 4:35   | 1st(C), 3rd(E), 5th(G), b7th(Bb), 9th(D), 11th(D), 13th(A)    |
+| C  add9  | C major add 9th               |  1   | E:X, 1:14, 2:19, G:0, 3:22, 4:23 | 1st(C), 3rd(E), 5th(G), 9th(D)                                |
+| C  m9    | C minor 9th                   |  1   | 1:37, 2:45, 3:48, 4:50, B:X, e:X | 1st(C), b3rd(Eb), 5th(G), b7th(Bb), 9th(D)                    |
+| C  maj9  | C major 9th                   |  1   | E:X, 1:14, 2:19, 3:22, 4:27, e:0 | 1st(C), 3rd(E), 5th(G), 7th(B), 9th(D)                        |
+| C  aug   | C augmented                   |  1   | E:X, 1:9-10, 2:14, 3:19, e:0     | 1st(C), 3rd(E), #5th(G#)                                      |
+| C  dim7  | C diminished 7th              |  1   | E:X, 1:15, 2:19, 4:26, 3:28, e:X | 1st(C), b3rd(Eb), b5th(Gb), bb7th(Bbb)                        |
+| C  dim   | C diminished triad            |  1   | E:X, 1:19, 2:26, 3:28, 4:33, e:X | 1st(C), b3rd(Eb), b5th(Gb)                                    |
 
