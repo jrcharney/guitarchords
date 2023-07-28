@@ -405,36 +405,36 @@
 
 | Abbr.    | Chord                         | Pos. | Fingers                          | Spelling                                                        |
 |----------|-------------------------------|------|----------------------------------|-----------------------------------------------------------------|
-| G        | G major                       |  1   | E:X, A:X, D:0, 1:9, 2:11, 3:16   | 1st(D), 3rd(F#), 5th(A)                                         |
-| G        | G major                       |  2   | E:X, 1:31-35, 2:44, 3:45, 4:46   | 1st(D), 3rd(F#), 5th(A)                                         |
-| G  m     | G minor                       |  1   | E:X, A:X, D:0, 1:11, 2:16, 3:23  | 1st(D), b3rd(F), 5th(A)                                         |
-| G  m     | G minor                       |  2   | E:X  1:31-35, 2:40, 3:44, 4:45   | 1st(D), b3rd(F), 5th(A)                                         |
-| G  maj7  | G major 7th                   |  1   | E:X, A:X, D:0, 1:15-17           | 1st(D), 3rd(F#), 5th(A), 7th(C#)                                |
-| G  maj7  | G major 7th                   |  2   | E:X, 1:31-35, 2:39, 3:44, 4:46   | 1st(D), 3rd(F#), 5th(A), 7th(C#)                                |
-| G  m7    | G minor 7th                   |  1   | E:X, A:X, D:0, 1:10-11, 2:15     | 1st(D), b3rd(F), 5th(A), b7th(C)                                |
-| G  m7    | G minor 7th                   |  2   | E:X, 1:31-35, 2:40, 3:44         | 1st(D), b3rd(F), 5th(A), b7th(C)                                |
-| G  sus4  | G suspended 4th               |  1   | E:X, A:X, D:0, 1:15, 3:22, 4:23  | 1st(D), 4th(G), 5th(A)                                          |
-| G  sus4  | G suspended 4th               |  2   | E:X, 1:31-35, 2:44, 3:45, 4:52   | 1st(D), 4th(G), 5th(A)                                          |
-| G  7sus4 | G dominant 7th suspended 4th  |  1   | E:X, A:X, D:0, 1:10, 2:15, 3:23  | 1st(D), 4th(G), 5th(A), b7th(C)                                 |
-| G  7sus4 | G dominant 7th suspended 4th  |  2   | E:X, 1:31-35, 3:44, 4:52         | 1st(D), 4th(G), 5th(A), b7th(C)                                 |
-| G  6     | G major 6th                   |  1   | E:X, A:X, D:0, 1:15, B:0, 2:17   | 1st(D), 3rd(F#), 5th(A), 6th(B)                                 |
-| G  6     | G major 6th                   |  2   | E:X, 1:31, 3:44-47               | 1st(D), 3rd(F#), 5th(A), 6th(B)                                 |
-| G  m6    | G minor 6th                   |  1   | E:X, A:X, D:0, B:0, 1:11, 2:15   | 1st(D), b3rd(F), 5th(A), 6th(B)                                 |
-| G  m6    | G minor 6th                   |  2   | E:X, 1:20-22, 2:27, 3:31, 4:35   | 1st(D), b3rd(F), 5th(A), 6th(B)                                 |
-| G  7     | G dominant 7th                |  1   | E:X, A:X, D:0, 1:10, 2:15, 3:17  | 1st(D), 3rd(F#), 5th(A), b7th(C)                                |
-| G  7     | G dominant 7th                |  2   | E:X, 1:31-35, 3:44, 4:46         | 1st(D), 3rd(F#), 5th(A), b7th(C)                                |
-| G  9     | G dominant 9th                |  1   | E:X, 1:26, 2:31, 3:33-35         | 1st(D), 3rd(F#), 5th(A), b7th(C), 9th(E)                        |
-| G  9     | G dominant 9th                |  2   | 1:55-57, 2:60, 3:62, 4:64, e:X   | 1st(D), 3rd(F#), 5th(A), b7th(C), 9th(E)                        |
-| G  5     | G 5th POWER CHORD             |  1   | E:X, A:X, D:0, 2:15, 3:22, e:X   | 1st(D), 5th(A)                                                  |
-| G  6add9 | G major 6th add 9th           |  1   | E:X, 1:26-27, 2:31, 3:34, 4:35   | 1st(D), 3rd(F#), 5th(A), 6th(B), 9th(E)                         |
-| G  11    | G dominant 11th               |  1   | E:X, 1:22-23, 2:26, 3:31, 4:33   | 1st(D), 3rd(F#), 5th(A), b7th(C), 9th(E), 11th(G)               |
-| G  13    | G dominant 13th               |  1   | E:X, 1:26, 2:31, 3:33-34, 4:47   | 1st(D), 3rd(F#), 5th(A), b7th(C), 9th(E), 11th(G), 13th(B)      |
-| G  add9  | G major add 9th               |  1   | E:X, 1:15, 2:26, 3:31, 4:34, e:X | 1st(D), 3rd(F#), 5th(A), 9th(E)                                 |
-| G  m9    | G minor 9th                   |  1   | E:X, 1:20, 2:31, 3:33, 4:34, e:0 | 1st(D), b3rd(F), 5th(A), b7th(C), 9th(E)                        |
-| G  maj9  | G major 9th                   |  1   | E:X, 1:26, 2:31, 3:34, 4:39, e:0 | 1st(D), 3rd(F#), 5th(A), 7th(C#), 9th(E)                        |
-| G  aug   | G augmented                   |  1   | E:X, 1:21-22, 2:26, 3:31, e:X    | 1st(D), 3rd(F#), #5th(A#)                                       |
-| G  dim7  | G diminished 7th              |  1   | E:X, A:X, D:0, 1:9, B:0, 2:11    | 1st(D), b3rd(F), b5th(Ab), bb7th(Bb)                            |
-| G  dim   | G diminished triad            |  1   | E:X, A:X, D:0, 1:9-11, 3:22      | 1st(D), b3rd(Eb), b5th(Gb)                                      |
+| G        | G major                       |  1   | D:0, G:0, B:0, 1:13, 2:18, 3:23  | 1st(G), 3rd(B), 5th(D)                                          |
+| G        | G major                       |  2   | 1:18-23, 2:27, 3:31, 4:32        | 1st(G), 3rd(B), 5th(D)                                          |
+| G  m     | G minor                       |  1   | 1:18-23, 3:31, 4:32              | 1st(G), b3rd(Bb), 5th(D)                                        |
+| G  m     | G minor                       |  2   | E:X, A:X, 1:32, 2:41, 3:45, 4:52 | 1st(G), b3rd(Bb), 5th(D)                                        |
+| G  maj7  | G major 7th                   |  1   | E:X, A:X, 1:17, 2:22, 3:27, 4:32 | 1st(G), 3rd(B), 5th(D), 7th(F#)                                 |
+| G  maj7  | G major 7th                   |  2   | E:X, 1:45-47, 3:56, 4:61         | 1st(G), 3rd(B), 5th(D), 7th(F#)                                 |
+| G  m7    | G minor 7th                   |  1   | 1:18-23, 2:31, 3:32, 4:40        | 1st(G), b3rd(Bb), 5th(D), b7th(F)                               |
+| G  m7    | G minor 7th                   |  2   | E:X, A:X, 1:32, 2:40, 3:41, 4:45 | 1st(G), b3rd(Bb), 5th(D), b7th(F)                               |
+| G  sus4  | G suspended 4th               |  1   | A:X, D:0, G:0, 1:10, 3:18, 4:23  | 1st(G), 4th(C), 5th(D)                                          |
+| G  sus4  | G suspended 4th               |  2   | 1:18-23, 2:31, 3:32, 4:33        | 1st(G), 4th(C), 5th(D)                                          |
+| G  7sus4 | G dominant 7th suspended 4th  |  1   | D:0, G:0, 1:10-11, 2:18, 4:19    | 1st(G), 4th(C), 5th(D), b7th(F)                                 |
+| G  7sus4 | G dominant 7th suspended 4th  |  2   | 1:18-23, 2:31, 3:32              | 1st(G), 4th(C), 5th(D), b7th(F)                                 |
+| G  6     | G major 6th                   |  1   | 2:13, 3:18, D:0, G:0, B:0, e:0   | 1st(G), 3rd(B), 5th(D), 6th(E)                                  |
+| G  6     | G major 6th                   |  2   | 1:13-14, 2:18, 3:22, 4:27, e:0   | 1st(G), 3rd(B), 5th(D), 6th(E)                                  |
+| G  m6    | G minor 6th                   |  1   | 1:18-23, 2:31, 3:32, 4:34        | 1st(G), b3rd(Bb), 5th(D), 6th(E)                                |
+| G  m6    | G minor 6th                   |  2   | E:X, 1:50-52, 2:57, 3:61, 4:65   | 1st(G), b3rd(Bb), 5th(D), 6th(E)                                |
+| G  7     | G dominant 7th                |  1   | D:0, G:0, B:0, 1:11, 2:13, 3:18  | 1st(G), 3rd(B), 5th(D), b7th(F)                                 |
+| G  7     | G dominant 7th                |  2   | 1:18-23, 2:27, 3:31              | 1st(G), 3rd(B), 5th(D), b7th(F)                                 |
+| G  9     | G dominant 9th                |  1   | 1:13-15, 2:18, 3:20, 4:22, e:X   | 1st(G), 3rd(B), 5th(D), b7th(F), 9th(A)                         |
+| G  9     | G dominant 9th                |  2   | E:X, A:X, 1:27, 2:32, 3:35, 4:40 | 1st(G), 3rd(B), 5th(D), b7th(F), 9th(A)                         |
+| G  5     | G 5th POWER CHORD             |  1   | 1:18, 3:31, 4:32, G:X, B:X, e:X  | 1st(G), 5th(D)                                                  |
+| G  6add9 | G major 6th add 9th           |  1   | 1:13-15, 2:18, 3:22, 4:23        | 1st(G), 3rd(B), 5th(D), 6th(E), 9th(A)                          |
+| G  11    | G dominant 11th               |  1   | D:0, 1:10-11, 2:13, 3:15, 4:18   | 1st(G), 3rd(B), 5th(D), b7th(F), 9th(A), 11th(C)                |
+| G  13    | G dominant 13th               |  1   | 1:18, A:X, 2:20, 3:27, 4:34-35   | 1st(G), 3rd(B), 5th(D), b7th(F), 9th(A), 11th(C), 13th(E)       |
+| G  add9  | G major add 9th               |  1   | A:X, D:0, B:0, 1:15, 2:18, 3:23  | 1st(G), 3rd(B), 5th(D), 9th(A)                                  |
+| G  m9    | G minor 9th                   |  1   | 1:7, 2:15, 3:18, 4:20, B:X, e:X  | 1st(G), b3rd(Bb), 5th(D), b7th(F), 9th(A)                       |
+| G  maj9  | G major 9th                   |  1   | 1:13-15, 2:18, 3:22, 4:26, e:X   | 1st(G), 3rd(B), 5th(D), 7th(F#), 9th(A)                         |
+| G  aug   | G augmented                   |  1   | E:X, A:X, 1:23, 2:27, 3:28, 4:32 | 1st(G), 3rd(B), #5th(D#)                                        |
+| G  dim7  | G diminished 7th              |  1   | E:X, A:X, 1:32, 2:34, 3:39, 4:41 | 1st(G), b3rd(Bb), b5th(Db), bb7th(Fb)                           |
+| G  dim   | G diminished triad            |  1   | E:X, A:X, 1:16, 2:21, 3:23, 4:32 | 1st(G), b3rd(Bb), b5th(Db)                                      |
 
 ## Ab/G# Chords
 
