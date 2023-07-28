@@ -337,7 +337,7 @@
 |----------|-------------------------------|------|----------------------------------|-----------------------------------------------------------------|
 | F        | F major                       |  1   | E:X, A:X, 1:10-11, 2:15, 3:20    | 1st(F), 3rd(A), 5th(C)                                          |
 | F        | F major                       |  2   | E:X, 1:33-35, 2:40, 3:44, 4:49   | 1st(F), 3rd(A), 5th(C)                                          |
-| F  m     | F minor                       |  1   | 1:6-11, 2:28, 3:19, 4:20         | 1st(F), b3rd(Ab), 5th(C)                                        |
+| F  m     | F minor                       |  1   | 1:6-11, 3:19, 4:20               | 1st(F), b3rd(Ab), 5th(C)                                        |
 | F  m     | F minor                       |  2   | E:X, A:X, 1:20, 2:29, 3:33, 4:40 | 1st(F), b3rd(Ab), 5th(C)                                        |
 | F  maj7  | F major 7th                   |  1   | E:X, A:X, 1:10, 2:15, 3:20, e:0  | 1st(F), 3rd(A), 5th(C), 7th(E)                                  |
 | F  maj7  | F major 7th                   |  2   | E:X, 1:33-35, 3:44, 4:49         | 1st(F), 3rd(A), 5th(C), 7th(E)                                  |
@@ -370,36 +370,36 @@
 
 | Abbr.    | Chord                         | Pos. | Fingers                          | Spelling                                                        |
 |----------|-------------------------------|------|----------------------------------|-----------------------------------------------------------------|
-| F#       | F# major                      |  1   | E:X, 1:9-11, 2:16, 3:20, 4:25    | 1st(C#), 3rd(E#), 5th(G#)                                       |
-| F#       | F# major                      |  2   | E:X, 1:25-29, 2:38, 3:39, 4:40   | 1st(C#), 3rd(E#), 5th(G#)                                       |
-| F# m     | F# minor                      |  1   | E:X, 1:25-29, 2:34, 3:38, 4:39   | 1st(C#), b3rd(E), 5th(G#)                                       |
-| F# m     | F# minor                      |  2   | 1:54-59, 3:67, 4:68              | 1st(C#), b3rd(E), 5th(G#)                                       |
-| F# maj7  | F# major 7th                  |  1   | E:X, 1:9-11, 3:20, 4:25          | 1st(C#), 3rd(E#), 5th(G#), 7th(B#)                              |
-| F# maj7  | F# major 7th                  |  2   | E:X, 1:25-29, 2:33, 3:38, 4:40   | 1st(C#), 3rd(E#), 5th(G#), 7th(B#)                              |
-| F# m7    | F# minor 7th                  |  1   | E:X, 1:14-16, 2:25, 3:27, 4:29   | 1st(C#), b3rd(E), 5th(G#), b7th(B)                              |
-| F# m7    | F# minor 7th                  |  2   | E:X, 1:25-29, 2:34, 3:38         | 1st(C#), b3rd(E), 5th(G#), b7th(B)                              |
-| F# sus4  | F# suspended 4th              |  1   | E:X, 1:25-29, 2:38, 3:39, 4:46   | 1st(C#), 4th(F#), 5th(G#)                                       |
-| F# sus4  | F# suspended 4th              |  2   | 1:38-39, 2:46, 3:54, 4:55 e:X    | 1st(C#), 4th(F#), 5th(G#)                                       |
-| F# 7sus4 | F# dominant 7th suspended 4th |  1   | E:X, 1:25, 2:26, 3:27, B:X, 4:29 | 1st(C#), 4th(F#), 5th(G#), b7th(B)                              |
-| F# 7sus4 | F# dominant 7th suspended 4th |  2   | E:X, 1:25-29, 3:38, 4:46         | 1st(C#), 4th(F#), 5th(G#), b7th(B)                              |
-| F# 6     | F# major 6th                  |  1   | E:X, 1:25, 3:38-41               | 1st(C#), 3rd(E#), 5th(G#), 6th(A#)                              |
-| F# 6     | F# major 6th                  |  2   | 1:49-50, 2:54, 3:58, 4:63, e:0   | 1st(C#), 3rd(E#), 5th(G#), 6th(A#)                              |
-| F# m6    | F# minor 6th                  |  1   | E:X, 1:14-16, 2:21, 3:25, 4:29   | 1st(C#), b3rd(E), 5th(G#), 6th(A#)                              |
-| F# m6    | F# minor 6th                  |  2   | E:X, 1:25, G:X, 2:34, 3:38, 4:41 | 1st(C#), b3rd(E), 5th(G#), 6th(A#)                              |
-| F# 7     | F# dominant 7th               |  1   | E:X, 1:16, 2:20, 3:25, 4:27, e:X | 1st(C#), 3rd(E#), 5th(G#), b7th(B)                              |
-| F# 7     | F# dominant 7th               |  2   | E:X, 1:25-29, 3:38, 4:40         | 1st(C#), 3rd(E#), 5th(G#), b7th(B)                              |
-| F# 9     | F# dominant 9th               |  1   | E:X, 1:20, 2:25, 3:27-28         | 1st(C#), 3rd(E#), 5th(G#), b7th(B), 9th(D#)                     |
-| F# 9     | F# dominant 9th               |  2   | 1:49-51, 2:54, 3:56, 4:58, e:X   | 1st(C#), 3rd(E#), 5th(G#), b7th(B), 9th(D#)                     |
-| F# 5     | F# 5th POWER CHORD            |  1   | E:X, 1:25, 3:38, 4:39, B:X, e:X  | 1st(C#), 5th(G#)                                                |
-| F# 6add9 | F# major 6th add 9th          |  1   | E:X, 1:20-21, 2:25, 3:28, 4:29   | 1st(C#), 3rd(E#), 5th(G#), 6th(A#), 9th(D#)                     |
-| F# 11    | F# dominant 11th              |  1   | E:X, 1:16-17, 2:20, 3:25, 4:27   | 1st(C#), 3rd(E#), 5th(G#), b7th(B), 9th(D#), 11th(F#)           |
-| F# 13    | F# dominant 13th              |  1   | E:X, 1:20, 2:25, 3:27-28, 4:41   | 1st(C#), 3rd(E#), 5th(G#), b7th(B), 9th(D#), 11th(F#), 13th(A#) |
-| F# add9  | F# major add 9th              |  1   | E:X, 1:9, 2:20, 3:25, 4:28, e:X  | 1st(C#), 3rd(E#), 5th(G#), 9th(D#)                              |
-| F# m9    | F# minor 9th                  |  1   | 1:43, 2:51, 3:54, 4:56, B:X, e:X | 1st(C#), b3rd(E), 5th(G#), b7th(B), 9th(D#)                     |
-| F# maj9  | F# major 9th                  |  1   | E:X, 1:20, 2:25, 3:28, 4:33, e:X | 1st(C#), 3rd(E#), 5th(G#), 7th(B#), 9th(D#)                     |
-| F# aug   | F# augmented                  |  1   | E:X, 1:15-16, 2:20, 3:25, e:X    | 1st(C#), 3rd(E#), #5th(Gx)                                      |
-| F# dim7  | F# diminished 7th             |  1   | E:X, 1:21-23, 2:25, 3:32, 4:34   | 1st(C#), b3rd(E), b5th(G), bb7th(Bb)                            |
-| F# dim   | F# diminished triad           |  1   | E:X, 1:25, 2:32, 3:34, 4:39, e:X | 1st(C#), b3rd(E), b5th(G)                                       |
+| F#       | F# major                      |  1   | E:X, A:X, 1:16-17, 2:21, 3:26    | 1st(F#), 3rd(A#), 5th(C#)                                       |
+| F#       | F# major                      |  2   | E:X, 1:39-41, 2:46, 3:50, 4:55   | 1st(F#), 3rd(A#), 5th(C#)                                       |
+| F# m     | F# minor                      |  1   | 1:12-17, 3:25, 4:26              | 1st(F#), b3rd(A), 5th(C#)                                       |
+| F# m     | F# minor                      |  2   | E:X, A:X, 1:26, 2:35, 3:39, 4:46 | 1st(F#), b3rd(A), 5th(C#)                                       |
+| F# maj7  | F# major 7th                  |  1   | 1:12-16, 2:20, 3:21, 4:25, e:X   | 1st(F#), 3rd(A#), 5th(C#), 7th(E#)                              |
+| F# maj7  | F# major 7th                  |  2   | E:X, 1:39-41, 3:50, 4:55         | 1st(F#), 3rd(A#), 5th(C#), 7th(E#)                              |
+| F# m7    | F# minor 7th                  |  1   | 1:12-17, 2:25, 3:26, 4:34        | 1st(F#), b3rd(A), 5th(C#), b7th(E)                              |
+| F# m7    | F# minor 7th                  |  2   | E:X, A:X, 1:26, 2:34, 3:35, 4:39 | 1st(F#), b3rd(A), 5th(C#), b7th(E)                              |
+| F# sus4  | F# suspended 4th              |  1   | 1:12-17, 2:26, 3:27              | 1st(F#), 4th(B), 5th(C#)                                        |
+| F# sus4  | F# suspended 4th              |  2   | E:X, 1:39, 2:46, 3:55, 4:56, e:X | 1st(F#), 4th(B), 5th(C#)                                        |
+| F# 7sus4 | F# dominant 7th suspended 4th |  1   | 1:12-17, 2:25, 3:27              | 1st(F#), 4th(B), 5th(C#), b7th(E)                               |
+| F# 7sus4 | F# dominant 7th suspended 4th |  2   | E:X, A:X, 1:26, 2:34, 3:39, 4:47 | 1st(F#), 4th(B), 5th(C#), b7th(E)                               |
+| F# 6     | F# major 6th                  |  1   | 1:7-8, 2:12, 3:16, 4:21, e:X     | 1st(F#), 3rd(A#), 5th(C#), 6th(D#)                              |
+| F# 6     | F# major 6th                  |  2   | E:X, A:X, 1:26-28, 3:39, 4:41    | 1st(F#), 3rd(A#), 5th(C#), 6th(D#)                              |
+| F# m6    | F# minor 6th                  |  1   | 1:12-17, 2:25, 3:26, 4:28        | 1st(F#), b3rd(A), 5th(C#), 6th(D#)                              |
+| F# m6    | F# minor 6th                  |  2   | E:X, 1:44-46, 2:51, 3:55, 4:59   | 1st(F#), b3rd(A), 5th(C#), 6th(D#)                              |
+| F# 7     | F# dominant 7th               |  1   | 1:12-17, 2:21, 3:25              | 1st(F#), 3rd(A#), 5th(C#), b7th(E)                              |
+| F# 7     | F# dominant 7th               |  2   | E:X, 1:46, 2:50, 3:55, 4:57 e:X  | 1st(F#), 3rd(A#), 5th(C#), b7th(E)                              |
+| F# 9     | F# dominant 9th               |  1   | 1:7-9, 2:12, 3:14, 4:16, e:X     | 1st(F#), 3rd(A#), 5th(C#), b7th(E), 9th(G#)                     |
+| F# 9     | F# dominant 9th               |  2   | E:X, A:X, 1:21, 2:26, 3:29, 4:34 | 1st(F#), 3rd(A#), 5th(C#), b7th(E), 9th(G#)                     |
+| F# 5     | F# 5th POWER CHORD            |  1   | 1:12, 3:25, 4:26, G:0, B:X, e:X  | 1st(F#), 5th(C#)                                                |
+| F# 6add9 | F# major 6th add 9th          |  1   | 1:7-9, 2:12, 3:16, 4:17          | 1st(F#), 3rd(A#), 5th(C#), 6th(D#), 9th(G#)                     |
+| F# 11    | F# dominant 11th              |  1   | 1:13, 2:18, 3:20, 4:33, B:X, e:X | 1st(F#), 3rd(A#), 5th(C#), b7th(E), 9th(G#), 11th(B)            |
+| F# 13    | F# dominant 13th              |  1   | 1:12, A:X, 2:14, 3:21, 4:28-29   | 1st(F#), 3rd(A#), 5th(C#), b7th(E), 9th(G#), 11th(B), 13th(D#)  |
+| F# add9  | F# major add 9th              |  1   | E:X, A:X, 1:16, 2:21, 3:26, 4:29 | 1st(F#), 3rd(A#), 5th(C#), 9th(G#)                              |
+| F# m9    | F# minor 9th                  |  1   | 1:12-16, 3:25, 4:29              | 1st(F#), b3rd(A), 5th(C#), b7th(E), 9th(G#)                     |
+| F# maj9  | F# major 9th                  |  1   | 1:7-8, 1:12, 2:16, 3:20, e:X     | 1st(F#), 3rd(A#), 5th(C#), 7th(E#), 9th(G#)                     |
+| F# aug   | F# augmented                  |  1   | E:X, A:X, 1:17, 2:21, 3:22, 4:26 | 1st(F#), 3rd(A#), #5th(Cx)                                      |
+| F# dim7  | F# diminished 7th             |  1   | E:X, A:X, 1:26, 2:28, 3:33, 4:35 | 1st(F#), b3rd(A), b5th(C), bb7th(Eb)                            |
+| F# dim   | F# diminished triad           |  1   | E:X, A:X, 1:10, 2:15, 3:17, 4:25 | 1st(F#), b3rd(A), b5th(C)                                       |
 
 ## G Chords
 
