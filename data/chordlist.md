@@ -440,34 +440,34 @@
 
 | Abbr.    | Chord                         | Pos. | Fingers                          | Spelling                                                        |
 |----------|-------------------------------|------|----------------------------------|-----------------------------------------------------------------|
-| Ab       | Ab major                      |  1   | E:X, 1:21-23, 2:28, 3:32, 4:37   | 1st(Eb), 3rd(G), 5th(Bb)                                        |
-| Ab       | Ab major                      |  2   | E:X, 1:37-41, 2:50, 3:51, 4:52   | 1st(Eb), 3rd(G), 5th(Bb)                                        |
-| Ab m     | Ab minor                      |  1   | E:X, A:X, 1:8, 2:17, 3:21, 4:28  | 1st(Eb), b3rd(Gb), 5th(Bb)                                      |
-| Ab m     | Ab minor                      |  2   | E:X, 1:37-41, 2:46, 3:50, 4:51   | 1st(Eb), b3rd(Gb), 5th(Bb)                                      |
-| Ab maj7  | Ab major 7th                  |  1   | E:X, 1:21-23, 3:32, 4:37         | 1st(Eb), 3rd(G), 5th(Bb), 7th(D)                                |
-| Ab maj7  | Ab major 7th                  |  2   | E:X, 1:37-41, 2:45, 3:50, 4:52   | 1st(Eb), 3rd(G), 5th(Bb), 7th(D)                                |
-| Ab m7    | Ab minor 7th                  |  1   | E:X, 1:26-28, 2:37, 3:39, 4:41   | 1st(Eb), b3rd(Gb), 5th(Bb), b7th(Db)                            |
-| Ab m7    | Ab minor 7th                  |  1   | 1:37-41, 2:46, 3:50              | 1st(Eb), b3rd(Gb), 5th(Bb), b7th(Db)                            |
-| Ab sus4  | Ab suspended 4th              |  1   | E:X, 1:21, 2:28, 3:37, 4:38, e:X | 1st(Eb), 4th(Ab), 5th(Bb)                                       |
-| Ab sus4  | Ab suspended 4th              |  2   | 1:37-41, 2:50, 3:51, 4:58        | 1st(Eb), 4th(Ab), 5th(Bb)                                       |
-| Ab 7sus4 | Ab dominant 7th suspended 4th |  1   | E:X, A:X, 1:8, 2:16, 3:21, 4:29  | 1st(Eb), 4th(Ab), 5th(Bb), b7th(Db)                             |
-| Ab 7sus4 | Ab dominant 7th suspended 4th |  2   | E:X, 1:37-41, 3:50, 4:58         | 1st(Eb), 4th(Ab), 5th(Bb), b7th(Db)                             |
-| Ab 6     | Ab major 6th                  |  1   | E:X, A:X, 1:8-10, 3:21, 4:23     | 1st(Eb), 3rd(G), 5th(Bb), 6th(C)                                |
-| Ab 6     | Ab major 6th                  |  2   | E:X, 1:37, 3:50-53               | 1st(Eb), 3rd(G), 5th(Bb), 6th(C)                                |
-| Ab m6    | Ab minor 6th                  |  1   | E:X, 1:26-28, 2:33, 3:37, 4:41   | 1st(Eb), b3rd(Gb), 5th(Bb), 6th(C)                              |
-| Ab m6    | Ab minor 6th                  |  2   | E:X, 1:37, G:X, 2:46, 3:50, 4:53 | 1st(Eb), b3rd(Gb), 5th(Bb), 6th(C)                              |
-| Ab 7     | Ab dominant 7th               |  1   | E:X, 1:28, 2:32, 3:37, 4:39, e:X | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db)                              |
-| Ab 7     | Ab dominant 7th               |  2   | E:X, 1:37-41, 3:50, 4:52         | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db)                              |
-| Ab 9     | Ab dominant 9th               |  1   | E:X, A:X, 1:8, G:0, 2:11, 3:16   | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db), 9th(F)                      |
-| Ab 9     | Ab dominant 9th               |  2   | E:X, 1:32, 2:37, 3:33-35         | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db), 9th(F)                      |
-| Ab 5     | Ab 5th POWER CHORD            |  1   | E:X, 1:37, 3:50, 4:51, B:X, e:X  | 1st(Eb), 5th(Bb)                                                |
-| Ab 6add9 | Ab major 6th add 9th          |  1   | E:X, A:X, 1:8, G:0, 2:10, 3:11   | 1st(Eb), 3rd(G), 5th(Bb), 6th(C), 9th(F)                        |
-| Ab 11    | Ab dominant 11th              |  1   | E:X, 1:28-29, 2:32, 3:37, 4:39   | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db), 9th(F), 11th(Ab)            |
-| Ab 13    | Ab dominant 13th              |  1   | E:X, 1:32, 2:37, 3:39-40, 4:53   | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db), 9th(F), 11th(Ab), 13th(C)   |
-| Ab add9  | Ab major add 9th              |  1   | E:X, 1:21, 2:32, 3:37, 4:40, e:X | 1st(Eb), 3rd(G), 5th(Bb), 9th(F)                                |
-| Ab m9    | Ab minor 9th                  |  1   | E:X, 1:26, 2:37, 3:39, 4:40, e:X | 1st(Eb), b3rd(D), 5th(F), b7th(Ab), 9th(C)                      |
-| Ab maj9  | Ab major 9th                  |  1   | E:X, 1:32, 2:37, 3:40, 4:45, e:X | 1st(Eb), 3rd(G), 5th(Bb), 7th(D), 9th(F)                        |
-| Ab aug   | Ab augmented                  |  1   | E:X, 1:27-28, 2:32, 3:37, e:X    | 1st(Eb), 3rd(G), #5th(B)                                        |
-| Ab dim7  | Ab diminished 7th             |  1   | E:X, A:X, 1:8, 2:10, 3:15, 4:17  | 1st(Eb), b3rd(Gb), b5th(Bbb), bb7th(Dbb)                        |
-| Ab dim   | Ab diminished triad           |  1   | E:X, A:X, 1:8, 2:15, 3:17, 4:28  | 1st(Eb), b3rd(Gb), b5th(Bbb)                                    |
+| Ab       | Ab major                      |  1   | 1:8-10, 2:19, 3:24, 4:29         | 1st(Ab), 3rd(C), 5th(Eb)                                        |
+| Ab       | Ab major                      |  2   | 1:24-29, 2:34, 3:38, 4:39        | 1st(Ab), 3rd(C), 5th(Eb)                                        |
+| Ab m     | Ab minor                      |  1   | 1:24-29, 3:37, 4:38              | 1st(Ab), b3rd(Cb), 5th(Eb)                                      |
+| Ab m     | Ab minor                      |  2   | E:X, A:X, 1:38, 2:47, 3:51, 4:58 | 1st(Ab), b3rd(Cb), 5th(Eb)                                      |
+| Ab maj7  | Ab major 7th                  |  1   | E:X, A:X, 1;23, 2:28, 3:33, 4:38 | 1st(Ab), 3rd(C), 5th(Eb), 7th(G)                                |
+| Ab maj7  | Ab major 7th                  |  2   | 1:24, A:X, 2:28, 3:32, 4:33, e:X | 1st(Ab), 3rd(C), 5th(Eb), 7th(G)                                |
+| Ab m7    | Ab minor 7th                  |  1   | 1:24-29, 2:37, 3:38, 4:46        | 1st(Ab), b3rd(Cb), 5th(Eb), b7th(Gb)                            |
+| Ab m7    | Ab minor 7th                  |  1   | E:X, A:X, 1:38, 2:46, 3:47, 4:51 | 1st(Ab), b3rd(Cb), 5th(Eb), b7th(Gb)                            |
+| Ab sus4  | Ab suspended 4th              |  1   | 1:8-9, 3:24, 4:25, B:X, e:X      | 1st(Ab), 4th(Db), 5th(Eb)                                       |
+| Ab sus4  | Ab suspended 4th              |  2   | 1:24-29, 2:37, 3:38, 4:39        | 1st(Ab), 4th(Db), 5th(Eb)                                       |
+| Ab 7sus4 | Ab dominant 7th suspended 4th |  1   | 1:24-29, 2:37, 3:39              | 1st(Ab), 4th(Db), 5th(Eb), b7th(Gb)                             |
+| Ab 7sus4 | Ab dominant 7th suspended 4th |  2   | E:X, A:X, 1:38, 2:46, 3:51, 4:59 | 1st(Ab), 4th(Db), 5th(Eb), b7th(Gb)                             |
+| Ab 6     | Ab major 6th                  |  1   | 1:8-11, 3:19, 4:24               | 1st(Ab), 3rd(C), 5th(Eb), 6th(F)                                |
+| Ab 6     | Ab major 6th                  |  2   | 1:19-20, 2:12, 3:16, 4:21, e:X   | 1st(Ab), 3rd(C), 5th(Eb), 6th(F)                                |
+| Ab m6    | Ab minor 6th                  |  1   | A:X, 1:20, 2:24, 3:27, 4:28, e:X | 1st(Ab), b3rd(Cb), 5th(Eb), 6th(F)                              |
+| Ab m6    | Ab minor 6th                  |  2   | 1:24-29, 2:37, 3:38, 4:40        | 1st(Ab), b3rd(Cb), 5th(Eb), 6th(F)                              |
+| Ab 7     | Ab dominant 7th               |  1   | 1:8-10, 2:17, 3:19, 4:24         | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb)                              |
+| Ab 7     | Ab dominant 7th               |  2   | 1:24-29, 2:33, 3:37              | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb)                              |
+| Ab 9     | Ab dominant 9th               |  1   | 1:19-21, 2:24, 3:26, 4:28, e:X   | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb), 9th(B)                      |
+| Ab 9     | Ab dominant 9th               |  2   | E:X, A:X, 1:33, 2:38, 3:41, 4:46 | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb), 9th(B)                      |
+| Ab 5     | Ab 5th POWER CHORD            |  1   | 1:24, 2:37, 3:38, G:X, B:X, e:X  | 1st(Ab), 5th(Eb)                                                |
+| Ab 6add9 | Ab major 6th add 9th          |  1   | 1:19-21, 2:24, 3:28, 4:29        | 1st(Ab), 3rd(C), 5th(Eb), 6th(F), 9th(Bb)                       |
+| Ab 11    | Ab dominant 11th              |  1   | 1:10, 2:19, 3:24, 4:26, G:X, e:X | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb), 9th(Bb), 11th(Db)           |
+| Ab 13    | Ab dominant 13th              |  1   | 1:24, A:X, 2:26, 3:33, 4:40-41   | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb), 9th(Bb), 11th(Db), 13th(F)  |
+| Ab add9  | Ab major add 9th              |  1   | A:X, 1:8-10, 2:21, 3:24 4:29     | 1st(Ab), 3rd(C), 5th(Eb), 9th(Bb)                               |
+| Ab m9    | Ab minor 9th                  |  1   | 1:24-28, 3:37, 4:41              | 1st(Ab), b3rd(Cb), 5th(Eb), b7th(Gb), 9th(Bb)                   |
+| Ab maj9  | Ab major 9th                  |  1   | 1:19-21, 2:24, 3:28, 4:32, e:X   | 1st(Ab), 3rd(C), 5th(Eb), 7th(G), 9th(Bb)                       |
+| Ab aug   | Ab augmented                  |  1   | 1;9, 2:14, 3:19, 4:24, B:X, e:X  | 1st(Ab), 3rd(C), #5th(E)                                        |
+| Ab dim7  | Ab diminished 7th             |  1   | E:X, A:X, 1:38, 2:40, 3:45, 4:47 | 1st(Ab), b3rd(Cb), b5th(Ebb), bb7th(Gbb)                        |
+| Ab dim   | Ab diminished triad           |  1   | D:0, 1:9, 2:13, 4:24, B:0, e:X   | 1st(Ab), b3rd(Cb), b5th(Ebb)                                    |
 
