@@ -45,6 +45,19 @@
    - Sort of. Double sharps (##) dincate a note is higher by two semitones or a whole step.
    - Similar to the koron, Persian music also has "sori" which is equivalent to one-half a sharp, or one-quarter higher of a step.
 - We won't have any korons or soris in this list. Although I might add them if requested.
+- **triads** are basic three-note chords that aare also the building blocks of all other chords.
+   - There are four basic triads:
+      - A **major triad** is the first, third, and fifth notes of the diatonic major scale (C, E, and G in the key of C)
+      - A **minor triad** is the first, third, and fifth notes of the natural minor scale (C, Eb, and G in the key of C)
+      - An **augmented triad** is a major triad with a sharpened fifth note (C, E, G# in the key of C)
+      - A **diminished triad** is a minor triad with a flattened fifth note (C, Eb, and Gb in the key of C)
+   - All the basic triads can be extended.
+      - For example, a major seventh chord is a major triad with a seventh note added (C, E, G, and B in the key of C).
+- **open chords** are chords in which open strings are used as part of the chord. They are normally, but not exclusively, played at the low (nut) end of the fretboard and more often used in acoustic rather than electric guitars.
+- **barre chords** are chords in which no open strings are played. Instead the first finger lies flat across all the strings. Barre chord shapes are just open-positioned chords re-fingered, thus leaving the first finger free for holding the barre. The advantage of barre chords is that once you have learned once shape, you can use it for all of the tweleve different keys simply by moving up or down the neck by a fret to change the pitch. This is especially useful when playing rhythm guitar.
+    - Since barre chords don't have open strings, they can sound great with distortion, and are well suited for "punchy" rhythmic techniques (i.e. staccato).
+    - The most common barre chords are the "E" and "A" shapes based on the E and A open chords, respectively.
+    - When playing a barre chord, ensure that the first finger is close to, and in line with, the fret rather than an angle to it.
 - Using "dim" instead of superscript "0" to indicate "diminished" chord, since I can't type superscript.
 - Using "aug" instead of "+" to indicate "augmented" chord for clarity
 - The first book I borrowed with most of these chords in it has A LOT of typos in it. Which is why I want to do some proofreading and use more than one source to check the verasity of the data.
@@ -85,6 +98,11 @@
 | A  aug   | A augmented                   |  1   | 4:30, 3:25, 2:20, 1:15, B:X, e:X | 1st(A), 3rd(C#), #5th(E#)                                       |
 | A  dim7  | A diminished 7th              |  1   | 2:30, 4:37, 4:26, 5:33, B:X, e:X | 1st(A), b3rd(C), b5th(Eb), bb7th(Gb)                            |
 | A  dim   | A diminished triad            |  1   | E:X, A:0, 1:8, 3:15, 2:10, e:X   | 1st(A), b3rd(C), b5th(Eb)                                       |
+| A  7#5   | A dominant 7th sharpened 5th  |  1   | E:X, A:0, G:0, 1:11, 2:16, 3:20  | 1st(A), 3rd(C#), #5th(E#), b7th(G)                              |
+| A  7#9   | A dominant 7th sharpened 9th  |  1   | E:X, A:0, 1:32-34, 2:39, 4:53    | 1st(A), 3rd(C#), 5th(E), b7th(G), #9th(B#)                      |
+| A  7b5   | A dominant 7th flattened 5th  |  1   | E:X, A:0, G:0, 1:8, 2:16, 3:23   | 1st(A), 3rd(C#), b5th(Eb), b7th(G)                              |
+| A  7b9   | A dominant 7th flattened 9th  |  1   | 1:21, 2:25, 3:30, 4:32, B:X, e:X | 1st(A), 3rd(C#), 5th(E), b7th(G), b9th(Bb)                      |
+| A  9b5   | A dominant 9th flattened 5th  |  1   | 1:25-28, 2:30, 3:32, 4:35        | 1st(A), 3rd(C#), b5th(Eb), b7th(G), 9th(B)                      |
 
 ## Bb/A# Chords
 
@@ -120,6 +138,11 @@
 | Bb aug   | Bb augmented                  |  1   | 1:21, 2:26, 3:31, 4:36, B:X, e:X | 1st(Bb), 3rd(D), #5th(F#)                                       |
 | Bb dim7  | Bb diminished 7th             |  1   | E:X, 1:7, 2:14, 3:16, G:X, e:0   | 1st(Bb), b3rd(Db), b5th(Fb), bb7th(Abb)                         |
 | Bb dim   | Bb diminished triad           |  1   | E:X, 1:7, 2:14, 3:16, 4:21, e:0  | 1st(Bb), b3rd(Db), b5th(Fb)                                     |
+| Bb 7#5   | Bb dominant 7th sharpened 5th |  1   | E:X, 1:7-9, 2:17, 3:22, 4:26     | 1st(Bb), 3rd(D), #5th(F#), b7th(Ab)                             |
+| Bb 7#9   | Bb dominant 7th sharpened 9th |  1   | E:X, 1:7, D:0, 2:9, 3:11, 4:16   | 1st(Bb), 3rd(D), 5th(F), b7th(Ab), #9th(C#)                     |
+| Bb 7b5   | Bb dominant 7th flattened 5th |  1   | E:X, 1:7, 2:9, 3:14, 4:22, e:0   | 1st(Bb), 3rd(D), b5th(Fb), b7th(Ab)                             |
+| Bb 7b9   | Bb dominant 7th flattened 9th |  1   | E:X, 1:7, D:0, 2:8, G:0, 3:11    | 1st(Bb), 3rd(D), 5th(F), b7th(Ab), b9th(Cb)                     |
+| Bb 9b5   | Bb dominant 9th flattened 5th |  1   | E:X, 1:7, D:0, 2:8, 3:9, e:X     | 1st(Bb), 3rd(D), b5th(Fb), b7th(Ab), 9th(C)                     |
 
 ## B Chords
 
@@ -155,6 +178,13 @@
 | B  aug   | B augmented                   |  1   | 1:27, 2:32, 3:37, 4:42, B:X, e:X | 1st(B), 3rd(D#), #5th(Fx)                                       |
 | B  dim7  | B diminished 7th              |  1   | E:X, 1:9-11, 2:13, 3:20, 4:22    | 1st(B), b3rd(D), b5th(F), bb7th(Ab)                             |
 | B  dim   | B diminished triad            |  1   | E:X, 1:13, 2:20, 3:27, 4:22, e:X | 1st(B), b3rd(D), b5th(F)                                        |
+| B  7#5   | B dominant 7th sharpened 5th  |  1   | E:X, 1:7-9, 2:17, 3:22, 4:26     | 1st(B), 3rd(D#), #5th(Fx), b7th(A)                              |
+| B  7#9   | B dominant 7th sharpened 9th  |  1   | E:X, 1:8, 2:13, 3:15, 4:22, e:X  | 1st(B), 3rd(D#), 5th(F#), 7th(A), #9th(Cx)                      |
+| B  7b5   | B dominant 7th flattened 5th  |  1   | E:X, 1:13-15, 2:20, 3:28, e:X    | 1st(B), 3rd(D#), b5th(F), b7th(A)                               |
+| B  7b9   | B dominant 7th flattened 9th  |  1   | E:X, 1:8-10, 2:13, 3:15, 4:17    | 1st(B), 3rd(D#), 5th(F#), b7th(A), b9th(C)                      |
+| B  9b5   | B dominant 9th flattened 5th  |  1   | E:X, 1:8-11, 2:13, 3:15, 4:16    | 1st(B), 3rd(D#), b5th(F), b7th(A), 9th(C#)                      |
+
+- TODO: For some reason Bb7#5 is the same as B7#5?
 
 ## C Chords
 
@@ -190,6 +220,11 @@
 | C  aug   | C augmented                   |  1   | E:X, 1:9-10, 2:14, 3:19, e:0     | 1st(C), 3rd(E), #5th(G#)                                        |
 | C  dim7  | C diminished 7th              |  1   | E:X, 1:15, 2:19, 4:26, 3:28, e:X | 1st(C), b3rd(Eb), b5th(Gb), bb7th(Bbb)                          |
 | C  dim   | C diminished triad            |  1   | E:X, 1:19, 2:26, 3:28, 4:33, e:X | 1st(C), b3rd(Eb), b5th(Gb)                                      |
+| C  7#5   | C dominant 7th sharpened 5th  |  1   | E:X, 1:19-21, 2:29, 3:34, 4:38   | 1st(C), 3rd(E), #5th(G#), b7th(Bb)                              |
+| C  7#9   | C dominant 7th sharpened 9th  |  1   | E:X, 1:14, 2:19, 3:21, 4:28, e:0 | 1st(C), 3rd(E), 5th(G), b7th(Bb), #9th(D#)                      |
+| C  7b5   | C dominant 7th flattened 5th  |  1   | E:X, 1:19-21, 2:26, 3:34, e:0    | 1st(C), 3rd(E), b5th(Gb), b7th(Bb)                              |
+| C  7b9   | C dominant 7th flattened 9th  |  1   | E:X, 1:14-16, 2:19, 3:21, 4:23   | 1st(C), 3rd(E), 5th(G), b7th(Bb), b9th(Db)                      |
+| C  9b5   | C dominant 9th flattened 5th  |  1   | E:X, 1:14-17, 2:19, 3:21, 4:22   | 1st(C), 3rd(E), b5th(Gb), b7th(Bb), 9th(D)                      |
 
 ## C#/Db Chords
 
@@ -225,6 +260,11 @@
 | C# aug   | C# augmented                  |  1   | E:X, 1:15-16, 2:20, 3:25, e:X    | 1st(C#), 3rd(E#), #5th(Gx)                                      |
 | C# dim7  | C# diminished 7th             |  1   | E:X, 1:21-23, 2:25, 3:32, 4:34   | 1st(C#), b3rd(E), b5th(G), bb7th(Bb)                            |
 | C# dim   | C# diminished triad           |  1   | E:X, 1:25, 2:32, 3:34, 4:39, e:X | 1st(C#), b3rd(E), b5th(G)                                       |
+| C# 7#5   | C# dominant 7th sharpened 5th |  1   | E:X, 1:25-27, 2:35, 3:40, 4:44   | 1st(C#), 3rd(E#), #5th(Gx), b7th(B)                             |
+| C# 7#9   | C# dominant 7th sharpened 9th |  1   | E:X, 1:20, 2:25, 3:27, 4:34, e:X | 1st(C#), 3rd(E#), 5th(G#), b7th(B), #9th(Dx)                    |
+| C# 7b5   | C# dominant 7th flattened 5th |  1   | E:X, 1:25-27, 2:32, 3:40, e:X    | 1st(C#), 3rd(E#), b5th(G), b7th(B)                              |
+| C# 7b9   | C# dominant 7th flattened 9th |  1   | E:X, 1:20-22, 2:25, 3:27, 4:29   | 1st(C#), 3rd(E#), 5th(G#), b7th(B), b9th(D)                     |
+| C# 9b5   | C# dominant 9th flattened 5th |  1   | E:X, 1:20-23, 2:25, 3:27, 4:28   | 1st(C#), 3rd(E#), b5th(G), b7th(B), 9th(D#)                     |
 
 ## D Chords
 
@@ -260,6 +300,11 @@
 | D  aug   | D augmented                   |  1   | E:X, 1:21-22, 2:26, 3:31, e:X    | 1st(D), 3rd(F#), #5th(A#)                                       |
 | D  dim7  | D diminished 7th              |  1   | E:X, A:X, D:0, 1:9, B:0, 2:11    | 1st(D), b3rd(F), b5th(Ab), bb7th(Bb)                            |
 | D  dim   | D diminished triad            |  1   | E:X, A:X, D:0, 1:9-11, 3:22      | 1st(D), b3rd(Eb), b5th(Gb)                                      |
+| D  7#5   | D dominant 7th sharpened 5th  |  1   | E:X, 1:31-33, 2:41, 3:46, 4:51   | 1st(D), 3rd(F#), #5th(A#), b7th(C)                              |
+| D  7#9   | D dominant 7th sharpened 9th  |  1   | E:X, 1:26, 2:31, 3:33, 4:40, e:X | 1st(D), 3rd(F#), 5th(A), b7th(C), #9th(E#)                      |
+| D  7b5   | D dominant 7th flattened 5th  |  1   | E:X, 1:31-33, 2:38, 3:46, e:X    | 1st(D), 3rd(F#), b5th(Ab), b7th(C)                              |
+| D  7b9   | D dominant 7th flattened 9th  |  1   | E:X, 1:26-28, 2:31, 3:33, 4:35   | 1st(D), 3rd(F#), 5th(A), b7th(C), b9th(Eb)                      |
+| D  9b5   | D dominant 9th flattened 5th  |  1   | E:X, 1:26-29, 2:31, 3:33, 4:34   | 1st(D), 3rd(F#), b5th(Ab), b7th(C), 9th(E)                      |
 
 ## Eb/D# Chords
 
@@ -295,6 +340,11 @@
 | Eb aug   | Eb augmented                  |  1   | E:X, 1:27-28, 2:32, 3:37, e:X    | 1st(Eb), 3rd(G), #5th(B)                                        |
 | Eb dim7  | Eb diminished 7th             |  1   | E:X, A:X, 1:8, 2:10, 3:15, 4:17  | 1st(Eb), b3rd(Gb), b5th(Bbb), bb7th(Dbb)                        |
 | Eb dim   | Eb diminished triad           |  1   | E:X, A:X, 1:8, 2:15, 3:17, 4:28  | 1st(Eb), b3rd(Gb), b5th(Bbb)                                    |
+| Eb 7#5   | Eb dominant 7th sharpened 5th |  1   | E:X, 1:37-39, 2:47, 3:52, 4:57   | 1st(Eb), 3rd(G), #5th(B), b7th(Db)                              |
+| Eb 7#9   | Eb dominant 7th sharpened 9th |  1   | E:X, A:X, 1:8, G:0, 3:16, 4:17   | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db), #9th(F#)                    |
+| Eb 7b5   | Eb dominant 7th flattened 5th |  1   | E:X, 1:37-39, 2:44, 3:52, e:X    | 1st(Eb), 3rd(G), b5th(Bbb), b7th(Db)                            |
+| Eb 7b9   | Eb dominant 7th flattened 9th |  1   | E:X, 1:32-34, 2:37, 3:39, 4:41   | 1st(Eb), 3rd(G), 5th(Bb), b7th(Db), b9th(Fb)                    |
+| Eb 9b5   | eb dominant 9th flattened 5th |  1   | E:X, 1:32-35, 2:37, 3:39, 4:40   | 1st(Eb), 3rd(G), b5th(Bbb), b7th(Db), 9th(F)                    |
 
 ## E Chords
 
@@ -330,6 +380,11 @@
 | E  aug   | E augmented                   |  1   | E:0, 1:33-34, 2:38, 3:43, e:0    | 1st(E), 3rd(G#), #5th(B#)                                       |
 | E  dim7  | E diminished 7th              |  1   | E:X, A:X, 1:14, 2:16, 3:21, 4:23 | 1st(E), b3rd(G), b5th(Bb), bb7th(Db)                            |
 | E  dim   | E diminished triad            |  1   | E:X, 1:7, 3:14, G:0, B:X, e:X    | 1st(E), b3rd(G), b5th(Bb)                                       |
+| E  7#5   | E dominant 7th sharpened 5th  |  1   | E:0, 1:9, 2:14, 3:19, B:22, e:0  | 1st(E), 3rd(G#), #5th(B#), b7th(D)                              |
+| E  7#9   | E dominant 7th sharpened 9th  |  1   | E:0, D:0, 1:9, 2:13, 3:22, 4:23  | 1st(E), 3rd(G#), 5th(B), b7th(D), #9th(Fx)                      |
+| E  7b5   | E dominant 7th flattened 5th  |  1   | E:X, A:X, 1:14, 2:21, 3:22, 4:29 | 1st(E), 3rd(G#), b5th(Bb), b7th(D)                              |
+| E  7b9   | E dominant 7th flattened 9th  |  1   | E:0, D:0, 1:9-11, 2:13, 4:22     | 1st(E), 3rd(G#), 5th(B), b7th(D), b9th(F)                       |
+| E  9b5   | E dominant 9th flattened 5th  |  1   | E:0, 1:7, D:0, 2:9, 3:17, 4:22   | 1st(E), 3rd(G#), b5th(Bb), b7th(D), 9th(F#)                     |
 
 ## F Chords
 
@@ -365,6 +420,11 @@
 | F  aug   | F augmented                   |  1   | E:X, A:X, 1:11, 2:15, 3:16, 4:20 | 1st(F), 3rd(A), #5th(C#)                                        |
 | F  dim7  | F diminished 7th              |  1   | E:X, A:X, 1:20, 2:22, 3:27, 4:29 | 1st(F), b3rd(Ab), b5th(Cb), bb7th(Ebb)                          |
 | F  dim   | F diminished triad            |  1   | E:X, 1:19, 2:26, 3:28, 4:33, e:X | 1st(F), b3rd(Ab), b5th(Cb)                                      |
+| F  7#5   | F dominant 7th sharpened 5th  |  1   | 1:6, A:X, 2:8, 3:15, 4:16, e:X   | 1st(F), 3rd(A), #5th(C#), b7th(Eb)                              |
+| F  7#9   | F dominant 7th sharpened 9th  |  1   | 1:6-10, 2:15, 3:19, 4:29         | 1st(F), 3rd(A), 5th(C), b7th(Eb), #9th(G#)                      |
+| F  7b5   | F dominant 7th flattened 5th  |  1   | 1:6, 2:8, 3:13, 4:15, B:0, e:X   | 1st(F), 3rd(A), b5th(Cb), b7th(Eb)                              |
+| F  7b9   | F dominant 7th flattened 9th  |  1   | 1:6-10, 2:15, 3:17, 4:19         | 1st(F), 3rd(A), 5th(C), b7th(Eb), b9th(Gb)                      |
+| F  9b5   | F dominant 9th flattened 5th  |  1   | 1:6, A:0, 2:8, G:0, B:0, 3:11    | 1st(F), 3rd(A), b5th(Cb), b7th(Eb), 9th(G)                      |
 
 ## F#/Gb Chords
 
@@ -400,6 +460,11 @@
 | F# aug   | F# augmented                  |  1   | E:X, A:X, 1:17, 2:21, 3:22, 4:26 | 1st(F#), 3rd(A#), #5th(Cx)                                      |
 | F# dim7  | F# diminished 7th             |  1   | E:X, A:X, 1:26, 2:28, 3:33, 4:35 | 1st(F#), b3rd(A), b5th(C), bb7th(Eb)                            |
 | F# dim   | F# diminished triad           |  1   | E:X, A:X, 1:10, 2:15, 3:17, 4:25 | 1st(F#), b3rd(A), b5th(C)                                       |
+| F# 7#5   | F# dominant 7th sharpened 5th |  1   | 1:12, A:X, 2:14, 3:21, 4:22, e:X | 1st(F#), 3rd(A#), #5th(Cx), b7th(E)                             |
+| F# 7#9   | F# dominant 7th sharpened 9th |  1   | 1:7, 2:12, 3:14-16, e:0          | 1st(F#), 3rd(A#), 5th(C#), b7th(E), #9th(Gx)                    |
+| F# 7b5   | F# dominant 7th flattened 5th |  1   | 1:12, 2:14, 3:19, 4:21, B:X, e:X | 1st(F#), 3rd(A#), b5th(C), b7th(E)                              |
+| F# 7b9   | F# dominant 7th flattened 9th |  1   | 1:12-16, 2:21, 3:23, 4:25        | 1st(F#), 3rd(A#), 5th(C#), b7th(E), b9th(G)                     |
+| F# 9b5   | F# dominant 9th flattened 5th |  1   | 1:7-10, 2:12, 3:14, 4:17         | 1st(F#), 3rd(A#), b5th(C), b7th(E), 9th(G#)                     |
 
 ## G Chords
 
@@ -435,6 +500,11 @@
 | G  aug   | G augmented                   |  1   | E:X, A:X, 1:23, 2:27, 3:28, 4:32 | 1st(G), 3rd(B), #5th(D#)                                        |
 | G  dim7  | G diminished 7th              |  1   | E:X, A:X, 1:32, 2:34, 3:39, 4:41 | 1st(G), b3rd(Bb), b5th(Db), bb7th(Fb)                           |
 | G  dim   | G diminished triad            |  1   | E:X, A:X, 1:16, 2:21, 3:23, 4:32 | 1st(G), b3rd(Bb), b5th(Db)                                      |
+| G  7#5   | G dominant 7th sharpened 5th  |  1   | 1:18, A:X, 2:20, 3:27, 4:28, e:X | 1st(G), 3rd(B), #5th(D#), b7th(F)                               |
+| G  7#9   | G dominant 7th sharpened 9th  |  1   | 1:13, 2:18, 3:20-22, e:X         | 1st(G), 3rd(B), 5th(D), b7th(F), #9th(A#)                       |
+| G  7b5   | G dominant 7th flattened 5th  |  1   | 1:18, 2:20, 3:25, 4:27, B:X, e:X | 1st(G), 3rd(B), b5th(Db), b7th(F)                               |
+| G  7b9   | G dominant 7th flattened 9th  |  1   | 1:9, 2:13, 3:18, 4:19, B:0, e:X  | 1st(G), 3rd(B), 5th(D), b7th(F), b9th(Ab)                       |
+| G  9b5   | G dominant 9th flattened 5th  |  1   | 1:13-16, 2:18, 3:20, 4:23        | 1st(G), 3rd(B), b5th(Db), b7th(F), 9th(A)                       |
 
 ## Ab/G# Chords
 
@@ -470,4 +540,11 @@
 | Ab aug   | Ab augmented                  |  1   | 1;9, 2:14, 3:19, 4:24, B:X, e:X  | 1st(Ab), 3rd(C), #5th(E)                                        |
 | Ab dim7  | Ab diminished 7th             |  1   | E:X, A:X, 1:38, 2:40, 3:45, 4:47 | 1st(Ab), b3rd(Cb), b5th(Ebb), bb7th(Gbb)                        |
 | Ab dim   | Ab diminished triad           |  1   | D:0, 1:9, 2:13, 4:24, B:0, e:X   | 1st(Ab), b3rd(Cb), b5th(Ebb)                                    |
+| Ab 7#5   | Ab dominant 7th sharpened 5th |  1   | 1:24, A:X, 2:26, 3:33, 4:34, e:X | 1st(Ab), 3rd(C), #5th(E), 7th(?)                                |
+| Ab 7#9   | Ab dominant 7th sharpened 9th |  1   | 1:19, 2:24, 3:26-28, e:X         | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb), #9th(B)                     |
+| Ab 7b5   | Ab dominant 7th flattened 5th |  1   | 1:24, 2:26, 3:31, 4:33, B:X, e:X | 1st(Ab), 3rd(C), b5th(Ebb), b7th(Gb)                            |
+| Ab 7b9   | Ab dominant 7th flattened 9th |  1   | 1:15, 2:19, 3:24, 4:26, B:X, e:X | 1st(Ab), 3rd(C), 5th(Eb), b7th(Gb), b9th(Bbb)                   |
+| Ab 9b5   | Ab dominant 9th flattened 5th |  1   | 1:19-22, 2:24, 3:26, 4:29        | 1st(Ab), 3rd(C), b5th(Ebb), b7th(Gb), 9th(Bb)                   |
+
+- TODO: Ab7#5 had the "7th(?)". Verify what it should be.
 
